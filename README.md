@@ -7,7 +7,7 @@
 - [Hosted Page](https://profcase.github.io/web-apps-list/)
 - [Source](https://github.com/profcase/web-apps-list)
 
-## Examples - Client-side
+## Instances - Client-side
 
 - [js-console](https://github.com/profcase/js-console)
 - [js-colors](https://github.com/profcase/js-colors)
@@ -22,7 +22,7 @@
 - [js-gui-pwa-fact](https://github.com/denisecase/js-gui-pwa-fact) (DC)
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue) (DC)
 
-## Examples - Server-side
+## Instances - Server-side
 
 - [node-express-app](https://github.com/denisecase/node-express-app) (DC)
 - [node-express-fact](https://github.com/denisecase/node-express-fact) (DC)
@@ -32,7 +32,7 @@
 - [todo-server](https://github.com/profcase/todo-server)
 - [todo-server-jwt](https://github.com/profcase/todo-server-jwt)
 
-### Locations
+### Places
 
 - <https://github.com/profcase/>
 - <https://github.com/denisecase/> (DC)
